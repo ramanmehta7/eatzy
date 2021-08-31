@@ -1,0 +1,196 @@
+﻿html {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    background-color: lightgreen !important;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.center {
+    width: 33%;
+    height: 74%;
+    border: 3px solid #2d2d2d;
+    position: absolute;
+    margin: auto;
+    top: 13%;
+    left: 33.5%;
+    background-color: white;
+}
+
+.inCard {
+    margin: auto;
+    padding: 3%;
+    width: 26%;
+}
+
+.inCardTable {
+    margin: auto;
+    width: 20%;
+    border-collapse: separate;
+    border-spacing: 0 1em;
+}
+
+.label-design {
+    font-size: 1.4em;
+    padding-right: 1em;
+}
+
+.cen {
+    margin: auto !important;
+    width: 100%;
+}
+
+.header {
+    width: 100%;
+    height: 17em;
+    background-color: black;
+}
+
+.header img {
+    max-width: auto;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+}
+
+.menu {
+    margin-top: 5%;
+}
+
+.menu h1 {
+    color: maroon;
+    margin-left: 25%;
+    margin-top: -2%;
+    width: 50%;
+}
+
+.menu-item {
+    margin-left: 25%;
+    margin-top: 1%;
+    width: 50%;
+    border: 2px solid black;
+    display: inline-flex;
+}
+
+.menu-item img {
+    padding-top: 0.1%;
+    padding-left: 0.1%;
+    width: 132px;
+    height: 90px;
+}
+
+.menu-item h2 {
+    font-size: 1.5em;
+    margin-left: 2%;
+    padding-top: 2.5%;
+    width: 100px;
+}
+
+.menu-item h4 {
+    color: forestgreen;
+    margin-left: 38.5%;
+    padding-top: 4.2%;
+    width: 50px;
+}
+
+.menu-item button {
+    height: 10%;
+    margin-left: 7%;
+    margin-top: 3.6%;
+}
+
+.total {
+    margin-left: 77%;
+    margin-top: 7.6%;
+    width: 50%;
+    min-height: 100%;
+    position: fixed;
+}
+
+.total h3 {
+    color: brown;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.total-button {
+    margin-left: 9.25%;
+}
+
+.user-greeting {
+    margin-left: 56%;
+    margin-top: 0.4%;
+    position: absolute;
+    color: green;
+}
+
+.search {
+    margin-left: 5%;
+    margin-top: 8%;
+    width: 50%;
+    min-height: 100%;
+    position: absolute;
+}
+
+.search-button {
+    margin-top: 0.75%;
+}
+
+.myOrder-button {
+    
+    margin-top: 0.75%;
+}
+
+.add-button {
+    margin-left: 6.5%;
+    margin-top: 3.75%;
+    height: 38.5px;
+}
+
+.cp-text {
+    color: rgba(0,0,0,.7);
+    text-shadow: 0 1px rgba(255, 255, 255, 0.1);
+}
+
+.eatzy {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    position: absolute;
+    top: 20%;
+    left: 46%;
+    color: white;
+}
+
+.eatzy h5 {
+    position: absolute;
+    left: 16.5%;
+    font-size: 1em;
+}
+
+.qty-textbox {
+    width: 2em;
+    height: 2em;
+    padding: 4%;
+}
+
+.item-label {
+    font-size: 1.15em;
+}
+
+.price-label {
+    font-size: 1.15em;
+}
+
+.parent-div {
+    text-align: center;
+}
+
+.inc-dec-btn {
+    width: 37px;
+    height: 37px;
+    text-align: center;
+    vertical-align: middle;
+}
